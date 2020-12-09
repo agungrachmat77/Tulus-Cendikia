@@ -1,0 +1,2 @@
+print("BELAJAR PHYTON")
+print ("DI TULUS CENDIKIA")
